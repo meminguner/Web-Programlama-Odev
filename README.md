@@ -1,2 +1,2 @@
 # Web-Programlama-Odev
-[link](https://web-programlama-odev.vercel.app/)
+[Projenin link'i](https://web-programlama-odev.vercel.app/)
